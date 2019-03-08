@@ -9,6 +9,7 @@ namespace GitExercise
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Malins ändring");
+            Console.WriteLine("Henriks ändring");
         }
     }
 }
