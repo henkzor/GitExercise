@@ -6,5 +6,9 @@ namespace GitExercise
 {
     class HenriksKlass
     {
+        public void HenriksMetod()
+        {
+            Console.WriteLine("Wöööööööh!!!!");
+        }
     }
 }
